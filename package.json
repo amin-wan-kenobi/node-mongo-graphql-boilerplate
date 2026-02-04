@@ -41,7 +41,7 @@
     "lodash": "4.17.15",
     "moment": "2.29.4",
     "mongodb": "3.5.2",
-    "mongoose": "5.8.11",
+    "mongoose": "6.13.6",
     "validator": "13.7.0"
   },
   "devDependencies": {
